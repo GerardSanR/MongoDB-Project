@@ -2,7 +2,7 @@
 """
 Created on Thu Apr  1 17:19:09 2021
 
-@author: jsole & gerardsantacatalina (1531139 - 1534002)
+@author: gerardsantacatalina (1534002) 
 """
 
 from rom_to_int import roman_to_int

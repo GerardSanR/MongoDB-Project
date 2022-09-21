@@ -2,7 +2,7 @@
 """
 Created on Thu Apr  1 15:30:00 2021
 
-@author: jsole & gerardsantacatalina (1531139 - 1534002)
+@author: gerardsantacatalina (1534002) 
 """
 
 from comprovar_dates import comp_contes

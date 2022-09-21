@@ -2,7 +2,7 @@
 """
 Created on Thu Apr  1 15:53:13 2021
 
-@author: jsole & gerardsantacatalina (1531139 - 1534002)
+@author: gerardsantacatalina (1534002) 
 """
 
 def roman_to_int(s):

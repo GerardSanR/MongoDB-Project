@@ -2,7 +2,7 @@
 """
 Created on Tue Mar 30 21:35:09 2021
 
-@author: jsole & gerardsantacatalina (1531139 - 1534002)
+@author: gerardsantacatalina (1534002) 
 """
 
 

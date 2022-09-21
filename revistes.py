@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Thu Apr  1 22:04:34 2021
-@author: jsole & gerardsantacatalina (1531139 - 1534002)
+@author: gerardsantacatalina (1534002) 
 """
 
 import rom_to_int as rti

@@ -2,7 +2,7 @@
 """
 Created on Wed Mar 31 18:20:42 2021
 
-@author: jsole & gerardsantacatalina (1531139 - 1534002)
+@author: gerardsantacatalina (1534002) 
 """
 
 import pymongo 

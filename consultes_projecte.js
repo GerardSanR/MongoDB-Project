@@ -1,7 +1,6 @@
 
 //PROJECTE DE BDNR//
-//Consultes - joc de proves de la nostra BD//
-//Joel Soler Huix - 1531139//
+//Consultes - joc de proves de la meva BD//
 //Gerard Santacatalina Rubio - 1534002//
 
 //Consulta 1 

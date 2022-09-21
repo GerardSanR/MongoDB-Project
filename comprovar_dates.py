@@ -2,7 +2,7 @@
 """
 Created on Mon Apr  5 10:55:18 2021
 
-@author: jsole & gerardsantacatalina (1531139 - 1534002)
+@author: gerardsantacatalina (1534002) 
 """
 
 from datetime import datetime
